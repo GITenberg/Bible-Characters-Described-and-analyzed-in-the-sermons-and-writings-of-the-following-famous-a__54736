@@ -1,0 +1,47 @@
+_repo: Bible-Characters-Described-and-analyzed-in-the-sermons-and-writings-of-the-following-famous-a__54736
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gillette, C. B.
+    gutenberg_agent_id: '48022'
+    url: http://www.gutenberg.org/2009/agents/48022
+creator:
+  authors:
+  - agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, D. L. (Dwight Lyman)
+    - Moody, Dwight L.
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+  - agent_name: Talmage, T. De Witt (Thomas De Witt)
+    aliases:
+    - Talmage, Thomas De Witt
+    - Talmage, T. DeWitt (Thomas De Witt)
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '5618'
+    url: http://www.gutenberg.org/2009/agents/5618
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+  - agent_name: Parker, Joseph
+    gutenberg_agent_id: '48021'
+    url: http://www.gutenberg.org/2009/agents/48021
+description: ''
+gutenberg_issued: '2017-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bible Characters
+
+  Described and analyzed in the sermons and writings of the
+
+  following famous authors'
+url: http://www.gutenberg.org/ebooks/54736
