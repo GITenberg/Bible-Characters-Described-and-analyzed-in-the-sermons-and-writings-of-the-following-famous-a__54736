@@ -1,10 +1,13 @@
 _repo: Bible-Characters-Described-and-analyzed-in-the-sermons-and-writings-of-the-following-famous-a__54736
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gillette, C. B.
     gutenberg_agent_id: '48022'
     url: http://www.gutenberg.org/2009/agents/48022
+covers:
+- cover_type: archival
+  image_path: 54736-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Moody, Dwight Lyman
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '48021'
     url: http://www.gutenberg.org/2009/agents/48021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54736#Bible-Characters-Described-and-analyzed-in-the-sermons-and-writings-of-the-following-famous-a_
 gutenberg_issued: '2017-05-17'
 gutenberg_type: Text
 identifiers:
